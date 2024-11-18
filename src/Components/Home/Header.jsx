@@ -1,5 +1,4 @@
 import React from 'react'
-import { IonIcon } from '@ionic/react';
 
 export default function Header() {
     return (
