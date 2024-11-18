@@ -28,10 +28,10 @@ export default function Design() {
                             Curabitur interdum malesuada lectus ut pharetra. Sed tellus ante, aliquet a sem id, ultricies varius dolor. Nam volutpat hendrerit massa. Cras posuere ornare elementum.
                         </p>
 
-                        <a href="#" className="btn">
+                        <button style={{ color :'white' }} className="btn">
                             <span className="span">Read More</span>
                             <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                        </a>
+                        </button>
 
                         <figure className="about-banner about-banner-3 img-holder" style={{ '--width': 850, '--height': 420 }}>
                             <img src="/images/about-3.jpg" width="850" height="420" loading="lazy" alt="concentrated artisans in workshop" className="img-cover" />
