@@ -78,8 +78,9 @@ export default function Contact() {
 
                         <Col md="4">
                             <iframe
+                                title="Contact Us Map"
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13273.665391256282!2d31.340407345899077!3d30.056609498675776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583e5d94c66301%3A0xddddf100de42206c!2z2YXYr9mK2YbZhyDZhti12LHYjCDYp9mE2YXZhti32YLYqSDYp9mE2KPZiNmE2YnYjCDZhdiv2YrZhtipINmG2LXYsdiMINmF2K3Yp9mB2LjYqSDYp9mE2YLYp9mH2LHYqeKArCA0NDUwMTEz!5e1!3m2!1sar!2seg!4v1730096847675!5m2!1sar!2seg"
-                                
+
                                 style={{ border: 0 }}
                                 allowFullScreen=""
                                 loading="lazy"
