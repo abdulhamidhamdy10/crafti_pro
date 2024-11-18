@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { IonIcon } from '@ionic/react';
 import { Link , NavLink } from 'react-router-dom';
 import { CartProvider, useCart } from "react-use-cart";
 
