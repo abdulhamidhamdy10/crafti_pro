@@ -10,7 +10,7 @@ export default function Footer() {
 
                         <div className="footer-brand">
 
-                            <a href="#" className="logo">Crafti</a>
+                            <button href="#" className="logo">Crafti</button>
 
                             <p className="footer-text">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non porttitor augue, in convallis risus.
@@ -18,28 +18,28 @@ export default function Footer() {
                             </p>
 
                             <ul className="social-list">
-                                <li><a href="#" className="social-link"><ion-icon name="logo-facebook"></ion-icon></a></li>
-                                <li><a href="#" className="social-link"><ion-icon name="logo-twitter"></ion-icon></a></li>
-                                <li><a href="#" className="social-link"><ion-icon name="logo-instagram"></ion-icon></a></li>
-                                <li><a href="#" className="social-link"><ion-icon name="logo-youtube"></ion-icon></a></li>
+                                <li><button style={{ color :'white' }}  className="social-link"><ion-icon name="logo-facebook"></ion-icon></button></li>
+                                <li><button style={{ color :'white' }}  className="social-link"><ion-icon name="logo-twitter"></ion-icon></button></li>
+                                <li><button style={{ color :'white' }}  className="social-link"><ion-icon name="logo-instagram"></ion-icon></button></li>
+                                <li><button style={{ color :'white' }}  className="social-link"><ion-icon name="logo-youtube"></ion-icon></button></li>
                             </ul>
 
                         </div>
 
                         <ul className="footer-list">
                             <li><p className="footer-list-title">Explore Us</p></li>
-                            <li><a href="#" className="footer-link">About Us</a></li>
-                            <li><a href="#" className="footer-link">Collection</a></li>
-                            <li><a href="#" className="footer-link">Features</a></li>
-                            <li><a href="#" className="footer-link">Blog & News</a></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">About Us</button></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">Collection</button></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">Features</button></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">Blog & News</button></li>
                         </ul>
 
                         <ul className="footer-list">
                             <li><p className="footer-list-title">Support</p></li>
-                            <li><a href="#" className="footer-link">Account</a></li>
-                            <li><a href="#" className="footer-link">Feedback</a></li>
-                            <li><a href="#" className="footer-link">Support Center</a></li>
-                            <li><a href="#" className="footer-link">Our Stores</a></li>
+                            <li><button style={{ color :'white' }} className="footer-link">Account</button></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">Feedback</button></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">Support Center</button></li>
+                            <li><button style={{ color :'white' }}  className="footer-link">Our Stores</button></li>
                         </ul>
 
                         <div className="footer-list">
