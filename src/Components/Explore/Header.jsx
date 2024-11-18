@@ -24,10 +24,10 @@ export default function Header() {
                                     <p className="card-text">
                                         Cras fermentum augue ac purus pharetra man aliquam fringilla ornare quam.
                                     </p>
-                                    <a href="#" className="btn">
+                                    <button style={{ color :'white' }} className="btn">
                                         <span className="span">View Gallery</span>
                                         <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                                    </a>
+                                    </button>
                                 </div>
                             </div>
                         </li>
@@ -42,10 +42,10 @@ export default function Header() {
                                     <p className="card-text">
                                         Cras fermentum augue ac purus pharetra man aliquam fringilla ornare quam.
                                     </p>
-                                    <a href="#" className="btn">
+                                    <button style={{ color :'white' }} className="btn">
                                         <span className="span">View Gallery</span>
                                         <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                                    </a>
+                                    </button>
                                 </div>
                             </div>
                         </li>
@@ -60,10 +60,10 @@ export default function Header() {
                                     <p className="card-text">
                                         Cras fermentum augue ac purus pharetra man aliquam fringilla ornare quam.
                                     </p>
-                                    <a href="#" className="btn">
+                                    <button style={{ color :'white' }}  className="btn">
                                         <span className="span">View Gallery</span>
                                         <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                                    </a>
+                                    </button>
                                 </div>
                             </div>
                         </li>
