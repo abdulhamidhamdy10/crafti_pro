@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link , NavLink } from 'react-router-dom';
-import { CartProvider, useCart } from "react-use-cart";
+import { useCart } from "react-use-cart";
 
 export default function Navbar() {
   const [isNavOpen, setIsNavOpen] = useState(false);
