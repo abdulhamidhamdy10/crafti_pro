@@ -47,10 +47,10 @@ export default function Footer() {
                             <p className="footer-text">
                                 Question or feedback? We’d love to hear from you.
                             </p>
-                            <a href="#" className="btn">
+                            <button  className="btn">
                                 <span className="span">Contact Us</span>
                                 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
-                            </a>
+                            </button>
                         </div>
 
                     </div>
